@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1221E132FE0B9F92FFC328CD8DB06B3F12EFB4D0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1221E132FE0B9F92FFC328CD8DB06B3F12EFB4D0" : 0,
+    "B562273876516758E30CE20E8C9D46B56717A371" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9B0FC43A-EDC3-430A-A2F8-D8BEF9BB4F14",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1221E132FE0B9F92FFC328CD8DB06B3F12EFB4D0" : "iOS-Swift-Assessment-Internet\/",
+    "B562273876516758E30CE20E8C9D46B56717A371" : "iOS-Swift-Assessment-Animation\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iOS-Swift-Assessment-Internet",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOS-Swift-Assessment-Internet.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:learn-co-curriculum\/iOS-Swift-Assessment-Internet.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1221E132FE0B9F92FFC328CD8DB06B3F12EFB4D0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:learn-co-curriculum\/iOS-Swift-Assessment-Animation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B562273876516758E30CE20E8C9D46B56717A371"
+    }
+  ]
+}
