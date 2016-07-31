@@ -14,10 +14,9 @@ class InternetsViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
     }
     
-    /* perform a GET on the URL below, this is the response you'll receive:
+    /* Perform a GET request on the URL below. This is the response you'll receive:
      {
      "name":"Flatiron School",
      "address":"11 Broadway, New York, NY 10004",
@@ -34,8 +33,8 @@ class InternetsViewController: UIViewController {
     
     func fetchWeather(){
         
+        // Use NSURLSession to write your GET request here
         let urlString = "https://flatironAssessment.week8.com/weatherInfo"
-        // use nsurlsession to write your GET request in here!
    
     }
 }
