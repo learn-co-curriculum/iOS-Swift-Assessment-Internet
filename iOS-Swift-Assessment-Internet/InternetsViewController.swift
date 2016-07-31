@@ -16,6 +16,10 @@ class InternetsViewController: UIViewController {
         super.viewDidLoad()
     }
     
+    @IBAction func updateWeatherTouched(sender: UIButton) {
+        
+    }
+    
     /* Perform a GET request on the URL below. This is the response you'll receive:
      {
      "name":"Flatiron School",
@@ -27,14 +31,11 @@ class InternetsViewController: UIViewController {
      }
      */
     
-    @IBAction func updateWeatherTouched(sender: UIButton) {
-        
-    }
-    
     func fetchWeather(){
         
-        // Use NSURLSession to write your GET request here
         let urlString = "https://flatironAssessment.week8.com/weatherInfo"
-   
+    
+       // Use NSURLSession to write your GET request here
+
     }
 }
