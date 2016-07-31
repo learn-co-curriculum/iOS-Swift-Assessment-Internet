@@ -1,9 +1,10 @@
-# ios-swift-assessment-internet
+# iOS Swift Assessment: Internet
 
 
-##Instructions
+## Instructions
 
-###Internet
+### Internet
+
 * Make a `get` request from the given URL.
 * Get the celsius and fahrenheit temperature from the return of your call.
 * Set the text on the label (already made for you) to read `?C / ?F` with the correct temperature added in place of the question marks.  
