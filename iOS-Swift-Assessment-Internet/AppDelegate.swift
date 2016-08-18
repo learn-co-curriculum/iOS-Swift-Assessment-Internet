@@ -26,7 +26,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             
             let fakeSON = ["name" : "Flatiron School",
                            "address" : "11 Broadway, New York, NY 10004",
-                           "Temperature" : ["celsius" : 22,
+                           "temperature" : ["celsius" : 22,
                             "fahrenheit" : 71]]
             
             do{
