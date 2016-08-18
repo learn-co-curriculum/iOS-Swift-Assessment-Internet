@@ -14,16 +14,16 @@ class InternetsViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
     }
     
     @IBAction func updateWeatherTouched(sender: UIButton) {
         
     }
     
+
     func fetchWeather(){
         
         let urlString = "https://flatironAssessment.week8.com/weatherInfo"
-   
+
     }
 }
