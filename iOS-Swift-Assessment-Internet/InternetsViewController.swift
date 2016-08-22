@@ -20,7 +20,17 @@ class InternetsViewController: UIViewController {
         
     }
     
-
+    /* response from API:
+    {  
+        "temperature": {
+            celsius = 22;
+            fahrenheit = 71; 
+        },
+        "address": "11 Broadway, New York, NY 10004",
+        "name": "Flatiron School"
+    }
+    */
+ 
     func fetchWeather(){
         
         let urlString = "https://flatironAssessment.week8.com/weatherInfo"
