@@ -1,4 +1,5 @@
 PODS:
+  - Alamofire (3.4.1)
   - OHHTTPStubs (5.1.0):
     - OHHTTPStubs/Default (= 5.1.0)
   - OHHTTPStubs/Core (5.1.0)
@@ -12,13 +13,18 @@ PODS:
   - OHHTTPStubs/NSURLSession (5.1.0):
     - OHHTTPStubs/Core
   - OHHTTPStubs/OHPathHelpers (5.1.0)
+  - SwiftyJSON (2.3.2)
 
 DEPENDENCIES:
+  - Alamofire (~> 3.4)
   - OHHTTPStubs
+  - SwiftyJSON
 
 SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
   OHHTTPStubs: 592f74439d2d72615115cf99a954237a3fbe26e5
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
 
-PODFILE CHECKSUM: 748687379b1a303b38049d37ff9cb5705fb77894
+PODFILE CHECKSUM: e3e8ceea87f1a69d4d5a7122d767b672db076976
 
-COCOAPODS: 1.0.0
+COCOAPODS: 1.0.1
