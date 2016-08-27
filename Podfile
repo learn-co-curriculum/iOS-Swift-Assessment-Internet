@@ -6,5 +6,7 @@ target 'iOS-Swift-Assessment-Internet' do
   use_frameworks!
 pod 'OHHTTPStubs'
   # Pods for iOS-Swift-Assessment-Internet
+  pod 'Alamofire', '~> 3.4'
+  pod 'SwiftyJSON'
 
 end
