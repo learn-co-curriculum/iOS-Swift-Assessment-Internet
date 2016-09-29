@@ -16,7 +16,7 @@ class InternetsViewController: UIViewController {
         super.viewDidLoad()
     }
     
-    @IBAction func updateWeatherTouched(sender: UIButton) {
+    @IBAction func updateWeatherTouched(_ sender: UIButton) {
         
     }
     
